@@ -1,0 +1,1 @@
+This project demostarate XMl based bean configuration.
